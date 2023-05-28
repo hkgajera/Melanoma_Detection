@@ -7,7 +7,7 @@ Introduction
 
 Melanoma is the most deadly form of skin cancer and has risen rapidly across the globe. Hence, early diagnosis of melanoma is of great significance for timely treatment and healthy living. This disease unexpectedly causes signs on normal skin with a dark mole and an irregular border. Figure  shows sample dermoscopic images from melanoma and non-melanoma categories.
 
-![](figure/samples.jpg)
+![](figure/sample.jpg)
 
 Proposed Methodology
 
@@ -16,6 +16,9 @@ The structure of the proposed method is depicted in Fig. 2. Our proposed method 
 ![](figure/Proposed_model.png)
 
 Results
+To confirm the feasibility of the proposed method, we thoroughly assessed its efficiency on PH2 dataset by employing boundary localization, cropping, and image normalization methods. The performance of MobileNet has been tested with SVM and LDA classifiers separately and the results with and without preprocessing are tabulated in Table 1.
+![](figure/result.jpg)
 
-
+This work is published in 19th International Conference on Artificial Intelligence in Medicine (AIME), Porto, Portugal, Springer,
+2021. Link: ({https://link.springer.com/chapter/10.1007/978-3-030-77211-6_39)  
 
