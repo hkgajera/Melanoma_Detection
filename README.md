@@ -7,5 +7,5 @@ Introduction
 
 Melanoma is the most deadly form of skin cancer and has risen rapidly across the globe. Hence, early diagnosis of melanoma is of great significance for timely treatment and healthy living. This disease unexpectedly causes signs on normal skin with a dark mole and an irregular border. Figure  shows sample dermoscopic images from melanoma and non-melanoma categories.
 
-![](figure/orignalimages.pdf)
+![](figure/category_samples.png)
 
