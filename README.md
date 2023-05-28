@@ -7,5 +7,15 @@ Introduction
 
 Melanoma is the most deadly form of skin cancer and has risen rapidly across the globe. Hence, early diagnosis of melanoma is of great significance for timely treatment and healthy living. This disease unexpectedly causes signs on normal skin with a dark mole and an irregular border. Figure  shows sample dermoscopic images from melanoma and non-melanoma categories.
 
-![](figure/category_samples.png)
+![](figure/samples.jpg)
+
+Proposed Methodology
+
+The structure of the proposed method is depicted in Fig. 2. Our proposed method consists of three major phases: (1) boundary localization, (2) feature extraction, and (3) classification.
+
+![](figure/Proposed_model.png)
+
+Results
+
+
 
