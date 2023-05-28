@@ -20,5 +20,5 @@ To confirm the feasibility of the proposed method, we thoroughly assessed its ef
 ![](figure/result.jpg)
 
 This work is published in 19th International Conference on Artificial Intelligence in Medicine (AIME), Porto, Portugal, Springer,
-2021. Link: ({https://link.springer.com/chapter/10.1007/978-3-030-77211-6_39)  
+2021. Link: (https://link.springer.com/chapter/10.1007/978-3-030-77211-6_39)  
 
